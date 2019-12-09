@@ -6,7 +6,7 @@ $(document).ready(function(){
       
       event.preventDefault();
       
-      var item = $("#todo-list-item").val();
+      const item = $("#todo-list-item").val();
       
       if (item){
         $("#list-items").append(
