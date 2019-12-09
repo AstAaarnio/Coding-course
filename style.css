@@ -10,29 +10,29 @@ span {
     font-weight: bold;
 }
 .body {
-  font-size:30px;
+  font-size: 30px;
 }
 
 #awesome {
-  font-size:70px;
+  font-size: 70px;
 }
 #inputbox {
-  width:300px;
-  border-color:grey;
-  border-style:dashed;
-  border-width:2px;
+  width: 300px;
+  border-color: grey;
+  border-style: dashed;
+  border-width: 2px;
 }
 #submit {
-  border-color:black;
-  border-width:2px;
-  border-style:dashed;
-  margin-left:10px;
+  border-color: black;
+  border-width: 2px;
+  border-style: dashed;
+  margin-left: 10px;
 }
 
 .completed {
-  text-decoration:line-through;
+  text-decoration: line-through;
 }
 .remove {
-  float:right;
-  cursor:pointer;
+  float: right;
+  cursor: pointer;
 }
