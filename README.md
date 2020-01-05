@@ -1,5 +1,5 @@
 # Coding-course
-The final assignment for coding course
+The final assignment for coding course. Password to the links are: letmein
 
 # Github
 
