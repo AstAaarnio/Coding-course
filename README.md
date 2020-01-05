@@ -3,7 +3,7 @@ The final assignment for coding course
 
 # Github
 
-https://github.com/AstAaarnio/Coding-course/
+https://astaaarnio.github.io/
 
 # Netlify
 
